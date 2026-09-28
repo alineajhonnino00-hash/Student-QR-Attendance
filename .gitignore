@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+attendance.db
+qr_codes/
+.venv/
+venv/
+.env
